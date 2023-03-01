@@ -1,13 +1,12 @@
-Awesome IoT ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+Awesome AIoT ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ===
 
-A curated list of IoT. Everyone can contribute here!
+A curated list of active AIoT data projects. Everyone can contribute here!
 
-The rules for the chart are as follows：
-- If the item has been updated within a year, the status of this item is "active";
-
-- If the item has been updated within 3 years, and it has been more than a year since the last update, this item the status of this item is "inactive";
-
+The rules for the status in the list are as follows：
+- The status of the project is "active", if there is at least one commit in that project within the past one year;
+- The status of the project is "inactive", if there is no commit in that project within the past one year;
+- The project item will be removed if there is no commit in that project within the past three year;
 
 ToC
 ---
