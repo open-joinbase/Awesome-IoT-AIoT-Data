@@ -1,7 +1,7 @@
 Awesome IoT and AIoT Data![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ===
 
-A curated list of active AIoT data projects. Everyone can contribute here!
+A curated list of active IoT and AIoT data projects. Everyone can contribute here!
 
 The rules for the status in the list are as follows：
 - The status of the project is "active", if there is at least one commit in that project within the past one year;
