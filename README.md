@@ -17,15 +17,15 @@ ToC
 |------|------|------|
 |[.NET Core IoT](https://github.com/dotnet/iot)|<font color="#00dd00">active</font><br /> |A set of libraries to interact with sensors, displays and input devices from .NET Core framework.This libraries allows to work with the GPIO port for various boards like Raspberry Pi and Hummingboard and contains a growing set of community-maintained device bindings for IoT components.|
 |[AREG SDK](https://github.com/aregtech/areg-sdk)|<font color="#00dd00">active</font><br /> |AREG SDK is a developer-friendly, an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-computing](https://csrc.nist.gov/publications/detail/sp/500-325/final), where connected Things interact and provide services, as if they act like thin distributed servers.|
-|[Cylon](https://github.com/hybridgroup/cylon)|<font color="#00dd00">active</font><br /> |JavaScript framework for robotics, physical computing, and the Internet of Things.|
-|[devify-server](https://github.com/DevifyPlatform/devify-server)|<font color="#00dd00">active</font><br /> |is extremely light weight, and is very easy to use. It aims to help developers to create IoT application servers, faster.|
-|[Epoc.js](https://github.com/charliegerard/Epoc.js)|<font color="#00dd00">active</font><br /> |This framework provides an interface to access data from the Emotiv EPOC brain sensor using Node.js.|
+|[Cylon](https://github.com/hybridgroup/cylon)|<font color="#00dd00">inactive</font><br /> |JavaScript framework for robotics, physical computing, and the Internet of Things.|
+|[devify-server](https://github.com/DevifyPlatform/devify-server)|<font color="#00dd00">inactive</font><br /> |is extremely light weight, and is very easy to use. It aims to help developers to create IoT application servers, faster.|
+|[Epoc.js](https://github.com/charliegerard/Epoc.js)|<font color="#00dd00">inactive</font><br /> |This framework provides an interface to access data from the Emotiv EPOC brain sensor using Node.js.|
 |[ESP-IDF](https://github.com/espressif/esp-idf)|<font color="#00dd00">active</font><br /> |The official framework from Espressif to build Wi-Fi, BLE, and BT apps with ESP32.|
-|[FogLight](https://github.com/oci-pronghorn/FogLight)|<font color="#00dd00">active</font><br /> |is a lightweight runtime that enables makers of all ages and skill levels to create highly performant apps for embedded devices like Raspberry Pis.|
-|[framboos](https://github.com/jkransen/framboos)|<font color="#00dd00">active</font><br /> |is a small Java wrapper around the default GPIO driver on Linux boards like Raspberry Pi and BeagleBoard.|
+|[FogLight](https://github.com/oci-pronghorn/FogLight)|<font color="#00dd00">inactive</font><br /> |is a lightweight runtime that enables makers of all ages and skill levels to create highly performant apps for embedded devices like Raspberry Pis.|
+|[framboos](https://github.com/jkransen/framboos)|<font color="#00dd00">inactive</font><br /> |is a small Java wrapper around the default GPIO driver on Linux boards like Raspberry Pi and BeagleBoard.|
 |[Freedomotic](https://github.com/freedomotic/freedomotic)|<font color="#00dd00">active</font><br /> |is an open source, flexible, secure Internet of Things (IoT)|
 |[GoBot](https://github.com/hybridgroup/gobot)|<font color="#00dd00">active</font><br /> |Golang framework for robotics, physical computing, and the Internet of Things.|
-|[Grow IoT](https://github.com/CommonGarden/Grow-IoT)|<font color="#00dd00">active</font><br /> |is a full javascript based IoT stack with a simple API and basic user interface.|
+|[Grow IoT](https://github.com/CommonGarden/Grow-IoT)|<font color="#00dd00">inactive</font><br /> |is a full javascript based IoT stack with a simple API and basic user interface.|
 |[guh](https://github.com/guh/guh)|<font color="#00dd00">active</font><br /> |is an open source IoT (Internet of Things) server, which allows to control a lot of different devices from many different manufacturers.|
 |[heimcontrol.js](https://github.com/ni-c/heimcontrol.js)|<font color="#00dd00">active</font><br /> |Home-Automation with node.js and Raspberry PI.|
 |[IoT 433 MHz](https://github.com/roccomuso/iot-433mhz)|<font color="#00dd00">active</font><br /> |IoT System to control 433 MHz RC power sockets, PIR, Door Sensors and much more.|
