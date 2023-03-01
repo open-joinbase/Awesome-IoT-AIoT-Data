@@ -4,9 +4,9 @@ Awesome IoT ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fe
 A curated list of IoT. Everyone can contribute here!
 
 The rules for the chart are as follows：
-- If the item has been updated within a year,the status of this item is "active";
+- If the item has been updated within a year, the status of this item is "active";
 
-- If the item has been updated within 3 years, and it has been more than a year since the last update, this item the status of this item is "active";
+- If the item has been updated within 3 years, and it has been more than a year since the last update, this item the status of this item is "inactive";
 
 
 ToC
