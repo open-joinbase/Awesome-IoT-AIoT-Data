@@ -16,7 +16,9 @@ ToC
     - [SDK](#sdk)
     - [Arduino](#arduino)
     - [Low Level](#low-level)
-
+- [App](#app)
+- [Storage](#storage)
+- [Security](#security)
 ## Framework
 
 |Name|Status|Introduction|
@@ -78,3 +80,24 @@ ToC
 |[SPIFFS](https://github.com/pellepl/spiffs)|active|Wear-leveled SPI flash file system for embedded devices.|
 |[SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO)|inactive|a Swift library to interact with Linux GPIO/SPI on ARM.|
 |[XiPKI](https://github.com/xipki/xipki)|active|eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.|
+
+## App
+
+|Name|Status|Introduction|
+|------|------|------|
+|[MQTTX](https://github.com/emqx/MQTTX)|active|MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows. It allows users to quickly and easily test MQTT / MQTTS connections, publish and subscribe to MQTT messages.|
+|[PhoneGap](https://github.com/chariotsolutions/phonegap-nfc)|inactive|PhoneGap NFC Plugin|
+|[PWAify](https://github.com/vladikoff/PWAify)|inactive|Experimental project to convert your PWA (Progressive Web App) into a cross-platform Electron app. Brings PWAs to your desktop.|
+
+## Storage
+
+|Name|Status|Introduction|
+|------|------|------|
+|[HStreamDB](https://github.com/hstreamdb/hstream)|active|The streaming database built for IoT data storage and real-time processing.|
+
+
+## Security
+
+|Name|Status|Introduction|
+|------|------|------|
+|[Scanners-Box](https://github.com/We5ter/Scanners-Box)|active|the toolbox of open source scanners.|
