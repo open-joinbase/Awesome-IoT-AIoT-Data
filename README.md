@@ -11,18 +11,24 @@ The rules for the status in the list are as follows：
 ToC
 ---
 
-- [Framework](#framework)
-- [Library](#library)
+- [Awesome IoT and AIoT Data](#awesome-iot-and-aiot-data)
+  - [ToC](#toc)
+  - [Framework](#framework)
+  - [Library](#library)
     - [SDK](#sdk)
     - [Arduino](#arduino)
     - [Low Level](#low-level)
-- [App](#app)
-- [Storage](#storage)
-- [Security](#security)
+  - [App](#app)
+  - [Storage](#storage)
+  - [Security](#security)
+  - [OS](#os)
+    - [Android Things](#android-things)
+  - [Voice Controller](#voice-controller)
 ## Framework
 
 |Name|Status|Introduction|
 |------|------|------|
+|[JoinBase](https://github.com/open-joinbase)|active|JoinBase is the single binary AIoT-first data-service platform. For Free. 25 million sustained 40B messages per second. Crafted engine is pushing the power of modern hardware to the limit. Interfaces with HTTP, WebSocket, MQTT, PostgreSQL and their TLS variants are available in the highest performance forms.|
 |[.NET Core IoT](https://github.com/dotnet/iot)|active|A set of libraries to interact with sensors, displays and input devices from .NET Core framework.This libraries allows to work with the GPIO port for various boards like Raspberry Pi and Hummingboard and contains a growing set of community-maintained device bindings for IoT components.|
 |[AREG SDK](https://github.com/aregtech/areg-sdk)|active|AREG SDK is a developer-friendly, an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-computing](https://csrc.nist.gov/publications/detail/sp/500-325/final), where connected Things interact and provide services, as if they act like thin distributed servers.|
 |[ESP-IDF](https://github.com/espressif/esp-idf)|active|The official framework from Espressif to build Wi-Fi, BLE, and BT apps with ESP32.|
@@ -101,3 +107,43 @@ ToC
 |Name|Status|Introduction|
 |------|------|------|
 |[Scanners-Box](https://github.com/We5ter/Scanners-Box)|active|the toolbox of open source scanners.|
+
+## OS
+
+|Name|Status|Introduction|
+|------|------|------|
+|[Mynewt](https://github.com/apache/mynewt-core)|active|is an open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.|
+|[Amazon FreeRTOS](https://github.com/aws/amazon-freertos)|active|is an operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and manage.|
+|[ARM mbed](https://github.com/mbedmicro/mbed)|active|The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.|
+|[Armbian](https://www.armbian.com)|active|Debian based Docker enabled lightweight Linux for popular development boards. Optimised for embedded usage.|
+|[Brillo](https://developers.google.com/brillo/)|active|Brillo extends the Android platform to all your connected devices.|
+|[Huawei LiteOS](https://github.com/LITEOS/LiteOS_Kernel)|inactive|Huawei LiteOS Kernel.|
+|[Hypriot](https://github.com/hypriot/image-builder-rpi)|active|HypriotOS for the Raspberry Pi is a Debian-based Container OS optimized for Docker.|
+|[Lua-RTOS-ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32)|active|is a real-time operating system designed to run on embedded systems, with minimal requirements of FLASH and RAM memory.|
+|[macchina.io](https://github.com/macchina-io/macchina.io)|active|An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.|
+|[NuttX](http://nuttx.org/)|active|is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint.Scalable from 8-bit to 32-bit microcontroller environments, the primary governing standards in NuttX are Posix and ANSI standards.|
+|[OpenWrt](https://github.com/openwrt/openwrt)|active|OpenWrt is described as a Linux distribution for embedded devices.|
+|[pikoRT](https://github.com/Piko-RT/pikoRT)|active|A tiny Linux-like real-time kernel optimized for ARM Cortex-M chips.|
+|[Raspbian](http://raspbian.org/)|active|Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.|
+|[RIOT](https://github.com/RIOT-OS/RIOT)|active|The friendly Operating System for the Internet of Things.|
+|[RT-Thread](https://github.com/RT-Thread/rt-thread)|active|RT-Thread is an open source real-time operating system for embedded devices from China.|
+|[seL4 Microkernel](https://github.com/seL4/seL4)|active|The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.|
+|[TachyOS](https://github.com/fritzprix/TachyOS)|inactive|is the RTOS based on microkernel architecture which includes only minimal components like thread / synchronization, memory management, inter-thread communication while supporting execution context / address space isolation(protection) and extensible modular interface.|
+|[TinyAra](https://github.com/Samsung/TinyAra)|active|is a lightweight RTOS-based platform to support low-end IoT devices.|
+|[TinyOS](https://github.com/tinyos/tinyos-main)|inactive|designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.|
+|[Tock OS](https://github.com/helena-project/tock)|active|is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.|
+|[Zephyr](https://github.com/zephyrproject-rtos/zephyr)|active|is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.|
+
+
+### Android Things
+
+|Name|Status|Introduction|
+|------|------|------|
+|[Android Things user-space drivers](https://github.com/androidthings/contrib-drivers)|inactive|Sample peripheral drivers for Android Things.|
+
+## Voice Controller
+
+|Name|Status|Introduction|
+|------|------|------|
+|[flask-ask](https://github.com/johnwheeler/flask-ask)|active|is a Flask extension that makes building Alexa skills for the Amazon Echo easier and much more fun.|
+
