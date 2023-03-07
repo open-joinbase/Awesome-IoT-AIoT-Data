@@ -11,19 +11,17 @@ The rules for the status in the list are as follows：
 ToC
 ---
 
-- [Awesome IoT and AIoT Data](#awesome-iot-and-aiot-data)
-  - [ToC](#toc)
-  - [Framework](#framework)
-  - [Library](#library)
-    - [SDK](#sdk)
-    - [Arduino](#arduino)
-    - [Low Level](#low-level)
-  - [App](#app)
-  - [Storage](#storage)
-  - [Security](#security)
-  - [OS](#os)
-    - [Android Things](#android-things)
-  - [Voice Controller](#voice-controller)
+- [Framework](#framework)
+- [Library](#library)
+   - [SDK](#sdk)
+   - [Arduino](#arduino)
+   - [Low Level](#low-level)
+- [App](#app)
+- [Storage](#storage)
+- [Security](#security)
+- [OS](#os)
+   - [Android Things](#android-things)
+- [Voice Controller](#voice-controller)
 ## Framework
 
 |Name|Status|Introduction|
