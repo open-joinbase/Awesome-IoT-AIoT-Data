@@ -22,6 +22,8 @@ ToC
 - [OS](#os)
    - [Android Things](#android-things)
 - [Voice Controller](#voice-controller)
+- [Platform](#platform)
+
 ## Framework
 
 |Name|Status|Introduction|
@@ -145,3 +147,31 @@ ToC
 |------|------|------|
 |[flask-ask](https://github.com/johnwheeler/flask-ask)|active|is a Flask extension that makes building Alexa skills for the Amazon Echo easier and much more fun.|
 
+## Platform
+
+|Name|Status|Introduction|
+|------|------|------|
+|[JoinBase](https://github.com/open-joinbase)|active|JoinBase is the single binary AIoT-first data-service platform. For Free. 25 million sustained 40B messages per second. Crafted engine is pushing the power of modern hardware to the limit. Interfaces with HTTP, WebSocket, MQTT, PostgreSQL and their TLS variants are available in the highest performance forms.|
+|[ActorCloud](https://github.com/actorcloud/ActorCloud)|inactive|ActorCloud is an IoT platform that provides one-stop platform services for enterprises with low-power IoT networks. It provides multiple protocol access, message flow management, data parsing and data processing capabilities for devices on a secure and reliable basis.|
+|[Astarte](https://github.com/astarte-platform/astarte)|active|Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.|
+|[DeviceHive](https://github.com/devicehive)|active|IoT Data Platform. Wide range of connectivity options, device management, security and data processing.|
+|[embARC Open Software Platform (OSP)](https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp)|active|is a software distribution aimed at facilitating the development of embedded systems based on ARCv2 Processors.|
+|[GrovePi](https://github.com/DexterInd/GrovePi)|active|is an open source platform for connecting Grove Sensors to the Raspberry Pi.|
+|[HiveMQ](https://github.com/hivemq/hivemq-community-edition)|active|is an open source MQTT platform and MQTT broker.|
+|[Hologram](https://hologram.io/)|active|Open source, full stack platform with standalone devices and usb plug in. Offers a free developer tier.|
+|[IoT.js](https://github.com/Samsung/iotjs)|inactive|Platform for Internet of Things with JavaScript.|
+|[Jasper](http://jasperproject.github.io/)|active|Jasper is an open source platform for developing always-on, voice-controlled applications.|
+|[KERBEROS.IO Web](https://github.com/kerberos-io/web)|active|a  GUI to configure the machinery and to view events that were detected by the machinery.|
+|[Kitnic](https://github.com/monostable/kitnic)|active|A registry for ready to build open hardware electronics projects.|
+|[Lan](https://github.com/phodal/lan)|active|Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP|
+|[Mainflux](https://github.com/Mainflux/mainflux)|active|Mainflux is an open source and patent-free IoT cloud platform based on microservices.|
+|[Mobius](https://github.com/IoTKETI/Mobius)|active|is the open source IoT server platform based on the oneM2M standard.|
+|[Mongoose IoT](https://github.com/cesanta/iot)|active|is a full-stack IoT platform including firmware and cloud components available for ESP8266.|
+|[Nebula](http://nebula.readthedocs.io)|active|A docker orchestrator designed to manage IoT devices|
+|[PharoThings](https://github.com/pharo-iot/PharoThings)|inactive|is a Live programming platform for IoT projects based on Pharo.|
+|[PlatformIO](https://github.com/platformio/platformio)|active|PlatformIO is a cross-platform code builder and the missing library manager.|
+|[Siemens MindSphere](https://www.siemens.com/global/en/home/products/software/mindsphere.html)|active|Open, cloud-based IoT operating system (uses OPC UA as communication standard) from Siemens which is extensible with services.|
+|[ThingEngine](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core)|inactive|An open source platform for IoT rules that you can execute anywhere you want.|
+|[Thingsboard](https://github.com/thingsboard/thingsboard)|active|Open-source IoT Platform - Device management, data collection, processing and visualization.|
+|[Toit](https://toit.io/)|active|The Toit platform combines the functionality of serving your devices in a robust, resilient way, and letting you have control over your devices and your data, as well as ready-to-use over-the-air firmware and application updates on your network-connected embedded devices.|
+|[United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub)|active|The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)|
