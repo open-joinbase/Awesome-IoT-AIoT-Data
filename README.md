@@ -23,6 +23,7 @@ ToC
    - [Android Things](#android-things)
 - [Voice Controller](#voice-controller)
 - [Platform](#platform)
+- [IoT Clouds](#iot-clouds)
 
 ## Framework
 
@@ -175,3 +176,31 @@ ToC
 |[Thingsboard](https://github.com/thingsboard/thingsboard)|active|Open-source IoT Platform - Device management, data collection, processing and visualization.|
 |[Toit](https://toit.io/)|active|The Toit platform combines the functionality of serving your devices in a robust, resilient way, and letting you have control over your devices and your data, as well as ready-to-use over-the-air firmware and application updates on your network-connected embedded devices.|
 |[United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub)|active|The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)|
+
+## IoT Clouds
+
+|Name|Status|Introduction|
+|------|------|------|
+|[JoinBase](https://github.com/open-joinbase)|active|JoinBase is the single binary AIoT-first data-service platform. For Free. 25 million sustained 40B messages per second. Crafted engine is pushing the power of modern hardware to the limit. Interfaces with HTTP, WebSocket, MQTT, PostgreSQL and their TLS variants are available in the highest performance forms.|
+|[Agile IoT Platform](https://www.aylanetworks.com/products/iot-platform)|active|Ayla Networks IoT Platform (with cloud services).|
+|[AlibabaCloud](https://intl.aliyun.com/solutions/IoT)|active|"A cloud computing solution"|
+|[ARM Pelion](https://www.pelion.com/)|active|"Arm Pelion IoT Platform including Connectivity, Device and Data management service"|
+|[Artik Cloud](https://artik.cloud/)|active|Samsung cloud for the IoT.|
+|[AWS IoT](https://aws.amazon.com/iot/)|active|Amazon cloud for the IoT.|
+|[Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)|active|Microsoft cloud for the IoT.|
+|[Bosch IoT Cloud](https://www.bosch-si.com/products/bosch-iot-suite/iot-cloud/bosch-iot-cloud-2.html)|active|Highly scalable cloud infrastructure based on Cloud Foundry.|
+|[CloudPlugs IoT](https://cloudplugs.com/)|active|"An end-to-end Fog Computing Platform for IoT."|
+|[Exosite murano](https://exosite.com/platform/)|active|IoT platform by Exosite.|
+|[Google Cloud IoT](https://cloud.google.com/solutions/iot/)|active|Google Cloud Platform IoT solutions.|
+|[Huawei Cloud IoTDA](https://www.huaweicloud.com/product/iothub.html)|active|Huawei cloud for the IoT.|
+|[IBM Watson](http://www.ibm.com/watson/)|active|IBM cloud for the IoT.|
+|[Oracle IoT Cloud](https://cloud.oracle.com/iot)|active|ORACLE Cloud for the Internet of Things.|
+|[Rightech IoT Cloud](https://app.rightech.io)|active|IoT platform.|
+|[Salesforce IoT Cloud](http://www.salesforce.com/iot-cloud/)|active|Salesforce cloud for the Internet of Things.|
+|[SAP HANA](https://www.sap.com/products/iot-platform-cloud.html)|active|SAP cloud for the Internet of Things.|
+|[Siemens MindSphere](http://www.siemens.com/global/en/home/company/topic-areas/digitalization/mindsphere.html)|active|Open IoT ecosystem as PaaS.|
+|[Xively IoT Cloud](https://www.xively.com/)|active|IoT platform.|
+|[Yaler](https://yaler.net/)|active|"Relay infrastructure for secure access to embedded systems".|
+|[Zatar](http://www.zatar.com/)|active|"Zatar is the first ARMmbed standards-based IoT cloud service".|
+|[EMQX Cloud](https://www.emqx.com/en/cloud)|active|Fully managed MQTT service for IoT. Connect your IoT devices to any cloud without the burden of maintaining infrastructure.|
+|[IoTSharp](https://github.com/IoTSharp/IoTSharp)|active|IoTSharp is an open-source IoT platform.|
