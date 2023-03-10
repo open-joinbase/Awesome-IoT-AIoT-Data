@@ -24,6 +24,7 @@ ToC
 - [Voice Controller](#voice-controller)
 - [Platform](#platform)
 - [IoT Clouds](#iot-clouds)
+- [IIoT Clouds](#iiot-clouds)
 
 ## Framework
 
@@ -204,3 +205,14 @@ ToC
 |[Zatar](http://www.zatar.com/)|active|"Zatar is the first ARMmbed standards-based IoT cloud service".|
 |[EMQX Cloud](https://www.emqx.com/en/cloud)|active|Fully managed MQTT service for IoT. Connect your IoT devices to any cloud without the burden of maintaining infrastructure.|
 |[IoTSharp](https://github.com/IoTSharp/IoTSharp)|active|IoTSharp is an open-source IoT platform.|
+
+## IIoT Clouds
+
+|Name|Status|Introduction|
+|------|------|------|
+|[DataXChange](https://www.scytec.com/)|active|Cloud manufacturing.|
+|[deviceWISE for Factory](http://www.telit.com/solutions/industries/smart-manufacturing/)|active|Telit IIoT cloud.|
+|[Predix](https://www.predix.com/)|active|Industrial IoT cloud (by General Electric).|
+|[Thingworx](https://www.thingworx.com/platforms/industrial-connectivity/)|active|Industrial IoT cloud.|
+|[Voice of the Machine](http://www.parker.com/portal/site/PARKER/menuitem.17c8315d31f057bc86a6c3544256d1ca/?vgnextoid=244744e25684b510VgnVCM100000e6651dacRCRD&vgnextchannel=9f45216358d55510VgnVCM100000e6651dacRCRD&vgnextfmt=)|active|Industrial IoT cloud (by Parker Hannifin, based on Exosite).|
+
