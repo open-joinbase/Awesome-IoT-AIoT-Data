@@ -25,6 +25,8 @@ ToC
 - [Platform](#platform)
 - [IoT Clouds](#iot-clouds)
 - [IIoT Clouds](#iiot-clouds)
+- [APIs](#apis)
+- [Middleware](#middleware)
 
 ## Framework
 
@@ -216,3 +218,32 @@ ToC
 |[Thingworx](https://www.thingworx.com/platforms/industrial-connectivity/)|active|Industrial IoT cloud.|
 |[Voice of the Machine](http://www.parker.com/portal/site/PARKER/menuitem.17c8315d31f057bc86a6c3544256d1ca/?vgnextoid=244744e25684b510VgnVCM100000e6651dacRCRD&vgnextchannel=9f45216358d55510VgnVCM100000e6651dacRCRD&vgnextfmt=)|active|Industrial IoT cloud (by Parker Hannifin, based on Exosite).|
 
+## APIs
+
+|Name|Status|Introduction|
+|------|------|------|
+|[OGC SensorThings API](https://github.com/opengeospatial/sensorthings)|active|The OGC SensorThings API is an OGC standard specification for providing an open and unified way to interconnect IoT devices, data, and applications over the Web|
+
+
+## Middleware
+
+|Name|Status|Introduction|
+|------|------|------|
+|[Kaa](https://github.com/kaaproject/kaa)|active|Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.|
+|[Kuzzle](https://github.com/kuzzleio/kuzzle)|active|An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. [(Website)](https://kuzzle.io/solutions/technologies/iot-backend/)|
+|[Meact](https://github.com/bkupidura/meact)|inactive|task is to get metric from external stuff, write it to  and perform various action.|
+|[OpenIoT](https://github.com/OpenIotOrg/openiot)|active|The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection|
+|[SiteWhere](https://github.com/sitewhere/sitewhere)|inactive|SiteWhere open-source IoT platform for device connectivity & management, data persistence, processing, integration, and analytics -- both in cloud and on-premise.|
+|[t6](https://github.com/mathcoll/t6)|active|Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.|
+
+
+## Toolkits Include Non-OS
+
+Layered architecture of JTAG interface and TAP support
+
+|Name|Status|Introduction|
+|------|------|------|
+|[iot-adk-addonkit](https://github.com/ms-iot/iot-adk-addonkit)|active|Contains command line scripts for package creation and image creation process and samples for iot products based on RPi2/MBM.|
+|[macchina.io](https://github.com/macchina-io/macchina.io)|active|An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.|
+|[pyOCD](https://github.com/mbedmicro/pyOCD)|active|Open source python library for programming and debugging ARM Cortex-M microcontrollers using CMSIS-DAP.|
+|[Renode](https://github.com/renode/renode)|active|a virtual development tool for multinode embedded networks.|
