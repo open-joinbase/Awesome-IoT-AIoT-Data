@@ -27,6 +27,7 @@ ToC
 - [IIoT Clouds](#iiot-clouds)
 - [APIs](#apis)
 - [Middleware](#middleware)
+- [Toolkits Include Non-OS](#toolkits-include-non-os)
 
 ## Framework
 
