@@ -28,6 +28,8 @@ ToC
 - [APIs](#apis)
 - [Middleware](#middleware)
 - [Toolkits Include Non-OS](#toolkits-include-non-os)
+- [Data Visualization](#data-visualization)
+- [Hardware](#hardware)
 
 ## Framework
 
@@ -248,3 +250,32 @@ Layered architecture of JTAG interface and TAP support
 |[macchina.io](https://github.com/macchina-io/macchina.io)|active|An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.|
 |[pyOCD](https://github.com/mbedmicro/pyOCD)|active|Open source python library for programming and debugging ARM Cortex-M microcontrollers using CMSIS-DAP.|
 |[Renode](https://github.com/renode/renode)|active|a virtual development tool for multinode embedded networks.|
+
+## Data Visualization
+
+|Name|Status|Introduction|
+|------|------|------|
+|[Crouton](https://github.com/edfungus/Crouton)|inactive|is a dashboard that lets you visualize and control your IOT devices with minimal setup.|
+|[D3.JS](https://github.com/mbostock/d3)|active|A JavaScript visualization library for HTML and SVG|
+|[DevicePilot](https://www.devicepilot.com)|active|Operational analytics for connected devices (includes free-forever tier).|
+|[ECharts](https://github.com/ecomfe/echarts)|active|Echarts is a commercial charting solution originally intended to address the report need of the Company's various business systems.|
+|[HighCharts](https://github.com/highslide-software/highcharts.com)|active|Highcharts JS, the JavaScript charting framework|
+|[iotdashboard](https://github.com/electrocoder/iotdashboard)|active|Fast Django server for IOT Devices.|
+
+## Hardware
+
+|Name|Status|Introduction|
+|------|------|------|
+|[Arduino](http://www.arduino.cc/)|active|open-source electronics platform based on easy-to-use hardware and software.|
+|[Arduino ZERO](https://www.arduino.cc/en/Main/ArduinoBoardZero)|active|This board aims to provide a platform for innovative projects in smart IoT devices, wearable technology, high-tech automation, crazy robotics, and much more.|
+|[BeagleBone](http://beagleboard.org/getting-started/)|active|BeagleBone Black is a low-cost, community-supported development platform for developers and hobbyists.|
+|[Carloop](https://github.com/carloop/carloop-library)|active|Make apps for your car using signals from OBD-II, CAN and GPS. Publish data online using the Particle platform.|
+|[Cheapduino](http://www.dfrobot.com/wiki/index.php/CheapDuino_(SKU:DFR0236))|active|CheapDuino is the most cheapest Arduino compatible processor in the world.|
+|[Intel Galileo](http://www.arduino.cc/en/ArduinoCertified/IntelGalileo)|active|Galileo is a microcontroller board based on the Intel® Quark SoC X1000 Application Processor, a 32-bit Intel Pentium-class system on a chip.|
+|[Microduino](https://www.microduino.cc/)|active|Microduino is about the size of a quarter and less than half the size of the original Arduino board.|
+|[NodeMCU](http://www.nodemcu.com/)|active|a firmware based on ESP8266 wifi-soc.|
+|[Raspberry Pi](https://www.raspberrypi.org/)|active|a tiny and affordable computer that you can use to learn programming through fun, practical projects|
+|[SquareWear](http://rayshobby.net/sqrwear/)|active|An Open-Source Arduino-based Wearable Microcontroller|
+|[Tessel](https://tessel.io/)|active|Tessel is a completely open source and community-driven IoT and robotics development. platform.|
+|[Wemos](http://www.wemos.cc)|active|Very-cheap firmware based on ESP8266 wifi-soc.|
+|[Widora](https://github.com/widora/openwrt_widora)|inactive|Widora is open source WiFi development hardware prototype with sound card based on MT7688A running [OpenWrt](https://github.com/openwrt/openwrt).|
